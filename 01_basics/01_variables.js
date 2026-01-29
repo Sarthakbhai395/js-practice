@@ -12,4 +12,4 @@ StateName="noida";
 
 
 
-console.table([Name,Email,Password,StateName,address]);
+_.table([Name,Email,Password,StateName,address]);
