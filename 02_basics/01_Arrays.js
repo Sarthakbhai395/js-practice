@@ -44,3 +44,4 @@ const new1 = MyArray.slice(1,4);
 console.log(MyArray);
 console.log(new1);
 
+const new2 = My
